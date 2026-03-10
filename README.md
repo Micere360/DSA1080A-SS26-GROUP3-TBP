@@ -16,4 +16,5 @@ arr_diverted	Integer	Diverted: Flights that landed at an airport they weren't su
 #Group Members 
 Addah Mwaniki - 675630 
 Gatoya Brianna-677393
+Patel Mann Bhavikkumar - 676738
 
